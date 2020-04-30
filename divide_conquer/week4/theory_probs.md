@@ -1,4 +1,4 @@
-![Problems](/Users/eve/repo/algorithms_stanford/divide_conquer/week4/problems.png)
+![Problems](/Users/eve/repo/stanford_algorithms_specialization/divide_conquer/week4/problems.png)
 1. As proved before, every comparison-based sorting algorithm has worst-case running time Omega(nlogn), so:
     suppose there are m pivot choices(p1, p2,..., pm),
     E(T(p)) = sum from i=1 to m P(p=pi)\*T(p=pi)
@@ -40,6 +40,6 @@
 
 4. Proof as the same as the undirected graph, P(output=(Ai, Bi)) >= 2/(n(n-1)) holds and the disjoint events hold
 
-5. ![Problem5](/Users/eve/repo/algorithms_stanford/divide_conquer/week4/theory_prob_5.jpeg)
+5. ![Problem5](/Users/eve/repo/stanford_algorithms_specialization/divide_conquer/week4/theory_prob_5.jpeg)
     
     
