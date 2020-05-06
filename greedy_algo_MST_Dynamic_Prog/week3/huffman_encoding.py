@@ -53,6 +53,7 @@ def bfs_binary_tree(root, tree_size):
 
     return min_depth, max_depth
 
+
 def build_huffman_tree(nodes):
     sorted_nodes = sorted(nodes)
     node_queue = deque()
